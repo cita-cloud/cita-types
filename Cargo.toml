@@ -1,0 +1,9 @@
+[package]
+name = "cita-types"
+version = "0.1.0"
+authors = ["Rivtower Technologies <contact@rivtower.com>"]
+license = "Apache-2.0"
+
+[dependencies]
+ethereum-types = "0.12"
+plain_hasher = "0.2"
