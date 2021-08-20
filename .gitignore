@@ -1,0 +1,12 @@
+# intermedia file directory
+target/
+*/target/
+
+# Cargo lock in subs
+**/Cargo.lock
+
+# vscode
+.vscode
+# jetbrains ide stuff
+.idea
+*.iml
