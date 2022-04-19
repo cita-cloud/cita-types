@@ -4,7 +4,7 @@ version = "0.1.1"
 authors = ["Rivtower Technologies <contact@rivtower.com>"]
 description = "A library wrapping cita types"
 license = "Apache-2.0"
-edition = "2018"
+edition = "2021"
 repository = "https://github.com/cita-cloud/cita-types"
 
 [dependencies]
