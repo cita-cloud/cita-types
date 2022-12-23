@@ -1,6 +1,6 @@
 [package]
 name = "cita-types"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["Rivtower Technologies <contact@rivtower.com>"]
 description = "A library wrapping cita types"
 license = "Apache-2.0"
@@ -8,5 +8,5 @@ edition = "2021"
 repository = "https://github.com/cita-cloud/cita-types"
 
 [dependencies]
-ethereum-types = "0.13"
+ethereum-types = "0.14"
 plain_hasher = "0.2"
